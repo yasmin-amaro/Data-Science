@@ -15,7 +15,7 @@ Lista de projetos em Jupyter Notebook:
 
 ### Sobre mim:
 
-Sou estudante de Engenharia de produção, pesquisadora de Data Science pela CNPq e analista da Tim Brasil na área de KPI Performance.
+Sou estudante de Engenharia de Produção, pesquisadora de Data Science pela CNPq e analista da Tim Brasil na área de KPI Performance.
 
 * Graduação em Engenharia de Produção pela Puc-Rio.
 
