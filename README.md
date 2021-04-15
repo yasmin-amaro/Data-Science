@@ -4,6 +4,7 @@
   <img src="https://github.com/yasmin-amaro/Data-Science/blob/main/Template%20portfolio%20github.png" >
 </p>
 
+
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
 
 ## Projetos:
@@ -15,7 +16,6 @@ Lista de projetos em Jupyter Notebook:
 
 ### Sobre mim:
 
-Sou estudante de Engenharia de Produção, pesquisadora de Data Science pela CNPq e analista da Tim Brasil na área de KPI Performance.
+Sou estudante de Engenharia de Produção na Puc-Rio, atualmente trabalho como analista da Tim Brasil na área de KPI Performance e realizo pesquisa de Iniciação Científica sobre Aplicação de Data Science para modelagem de processos de negócios intensivos em conhecimento, especificamente na área de Análise de Sentimentos, Mineração de Texto e Machine Learning. Já fui monitora de cálculo e professora voluntária do pré vestibular social da Puc. Sou apaixonada por números e análise de dados atrelada à soluções tecnológicas. Tenho como características fortes a determinação, perseverança e o foco, além de um perfil analítico. 
 
-* Graduação em Engenharia de Produção pela Puc-Rio.
-
+**Background:** Python, SQL, Machine Learning, Natural Language Processing.
