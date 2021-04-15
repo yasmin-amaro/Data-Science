@@ -10,7 +10,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise de sentimentos em uma empresa de suporte de TI:** 
+* **Análise de sentimentos em uma empresa de suporte de TI:** https://bit.ly/3uWSBUT
 
 ---
 
